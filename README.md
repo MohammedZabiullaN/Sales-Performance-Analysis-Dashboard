@@ -98,7 +98,7 @@ Implemented slicers for:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Excel_Dashboard.png)
 
 ---
 
