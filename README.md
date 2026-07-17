@@ -1,6 +1,6 @@
 # Sales-Performance-Analysis-Dashboard
 # Cleaned and analyzed sales data using Advanced Excel to identify business trends and KPIs.
-Built an interactive dashboard using Pivot Tables, Pivot Charts, Slicers, and data visualization techniques.
+# Built an interactive dashboard using Pivot Tables, Pivot Charts, Slicers, and data visualization techniques.
 ## Project Overview
 
 This project analyzes sales performance across different regions, products, customers, and sales channels using Microsoft Excel.
